@@ -1,0 +1,28 @@
+
+      body { background-color:#FAEDC6;
+            font-size: medium;   
+    
+    
+    }
+      hr{ 
+          border-style:dotted none none ;
+          width:10%;   
+          border-width: 10px;
+          border-color:black;
+      }
+      h2,h3,h4,h5,h6{ color:#3E8E7E;
+        font-family:Snell Roundhand, cursive ;   
+    
+    }
+    h1 { font: size 20px;
+    font-family:Snell;
+    font-weight:bold;
+    }
+    img{ border-radius:50%;
+         background-color:#7CD1B8;
+        border: 1px solid #ddd;
+        padding: 5px;
+        width: 20%;
+    
+    }
+    #headings {color:#1A374D;}
